@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cuty-cats/static/css/main.2933f0bd.chunk.css",
+    "main.js": "/cuty-cats/static/js/main.22fd917d.chunk.js",
+    "main.js.map": "/cuty-cats/static/js/main.22fd917d.chunk.js.map",
+    "runtime-main.js": "/cuty-cats/static/js/runtime-main.d949cddd.js",
+    "runtime-main.js.map": "/cuty-cats/static/js/runtime-main.d949cddd.js.map",
+    "static/js/2.a4281bc0.chunk.js": "/cuty-cats/static/js/2.a4281bc0.chunk.js",
+    "static/js/2.a4281bc0.chunk.js.map": "/cuty-cats/static/js/2.a4281bc0.chunk.js.map",
+    "index.html": "/cuty-cats/index.html",
+    "precache-manifest.f175ba64389c8bcbfa1703b05f526f2a.js": "/cuty-cats/precache-manifest.f175ba64389c8bcbfa1703b05f526f2a.js",
+    "service-worker.js": "/cuty-cats/service-worker.js",
+    "static/css/main.2933f0bd.chunk.css.map": "/cuty-cats/static/css/main.2933f0bd.chunk.css.map",
+    "static/js/2.a4281bc0.chunk.js.LICENSE.txt": "/cuty-cats/static/js/2.a4281bc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d949cddd.js",
+    "static/js/2.a4281bc0.chunk.js",
+    "static/css/main.2933f0bd.chunk.css",
+    "static/js/main.22fd917d.chunk.js"
+  ]
+}
